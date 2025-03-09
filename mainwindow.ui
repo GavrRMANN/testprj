@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>715</width>
-    <height>300</height>
+    <width>1951</width>
+    <height>740</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -394,6 +394,21 @@
     <property name="text">
      <string>Точки:</string>
     </property>
+   </widget>
+   <widget class="QWidget" name="verticalLayoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>680</x>
+      <y>10</y>
+      <width>1251</width>
+      <height>711</height>
+     </rect>
+    </property>
+    <layout class="QVBoxLayout" name="verticalLayout">
+     <property name="topMargin">
+      <number>0</number>
+     </property>
+    </layout>
    </widget>
   </widget>
  </widget>
